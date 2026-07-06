@@ -7,6 +7,8 @@ Project Modules
 - Reports
 - User Accounts
 
+- Borrowing
+- Returning
 Development Team
 Student Name: RAMOS, Neil Ivan
 Course: BSIT BA
