@@ -16,9 +16,9 @@ Course: BSIT BA
 Section: 2C
 
 Member Management Module
--Author
--Date modified
--Commit ID
+- Author
+- Date modified
+- Commit ID
 
 
 
