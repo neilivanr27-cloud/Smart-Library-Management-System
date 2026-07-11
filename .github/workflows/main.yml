@@ -1,4 +1,4 @@
-Check README File
+name: Check README File
 
 on:
  push:
